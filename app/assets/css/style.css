@@ -1,0 +1,20 @@
+#page-title {
+	margin-top: 10px;
+	margin-bottom: 25px;
+}
+
+.create-product-button, .read-products-button, .view-categories-button, .create-categories-button {
+	margin-bottom: 25px;
+}
+
+.read-products-button, .view-categories-button {
+	margin-right: 10px;
+}
+
+#logout, #update_account {
+	    display: none;
+}
+
+.form-group {
+	margin-bottom: 5px;
+}
